@@ -19,6 +19,7 @@ public class FragmentDetail extends Fragment {
 
     private TextView mTxtvDetail;
     private String hallo = "Hallo";
+    private string habfhbe;
 
     public FragmentDetail() {
         // Required empty public constructor
