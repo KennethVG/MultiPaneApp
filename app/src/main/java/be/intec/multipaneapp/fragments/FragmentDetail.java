@@ -18,6 +18,7 @@ import be.intec.multipaneapp.R;
 public class FragmentDetail extends Fragment {
 
     private TextView mTxtvDetail;
+    private String hallo = "Hallo";
 
     public FragmentDetail() {
         // Required empty public constructor
